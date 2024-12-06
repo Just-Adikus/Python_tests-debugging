@@ -1,0 +1,76 @@
+2024-12-06 18:04:21,660 - INFO - factorial called with n=0
+2024-12-06 18:04:21,661 - INFO - factorial(0) = 1
+2024-12-06 18:04:21,661 - INFO - factorial called with n=5
+2024-12-06 18:04:21,661 - INFO - factorial called with n=4
+2024-12-06 18:04:21,661 - INFO - factorial called with n=3
+2024-12-06 18:04:21,661 - INFO - factorial called with n=2
+2024-12-06 18:04:21,661 - INFO - factorial called with n=1
+2024-12-06 18:04:21,661 - INFO - factorial called with n=0
+2024-12-06 18:04:21,661 - INFO - factorial(0) = 1
+2024-12-06 18:04:21,661 - INFO - factorial(1) = 1
+2024-12-06 18:04:21,661 - INFO - factorial(2) = 2
+2024-12-06 18:04:21,661 - INFO - factorial(3) = 6
+2024-12-06 18:04:21,661 - INFO - factorial(4) = 24
+2024-12-06 18:04:21,661 - INFO - factorial(5) = 120
+2024-12-06 18:04:21,661 - INFO - factorial called with n=-1
+2024-12-06 18:04:21,661 - ERROR - Invalid input for factorial: n=-1
+2024-12-06 18:04:21,661 - INFO - factorial called with n=1.5
+2024-12-06 18:04:21,661 - ERROR - Invalid input for factorial: n=1.5
+2024-12-06 18:04:21,662 - INFO - gcd called with a=48, b=18
+2024-12-06 18:04:21,662 - INFO - gcd result = 6
+2024-12-06 18:04:21,662 - INFO - gcd called with a=-48, b=18
+2024-12-06 18:04:21,662 - INFO - gcd result = 6
+2024-12-06 18:04:21,662 - INFO - gcd called with a=0, b=18
+2024-12-06 18:04:21,662 - INFO - gcd result = 18
+2024-12-06 18:04:21,662 - INFO - is_prime called with n=7
+2024-12-06 18:04:21,662 - INFO - 7 is prime
+2024-12-06 18:04:21,662 - INFO - is_prime called with n=1
+2024-12-06 18:04:21,662 - WARNING - Input is not a prime candidate: n=1
+2024-12-06 18:04:21,662 - INFO - is_prime called with n=4
+2024-12-06 18:04:21,662 - INFO - 4 is not prime; divisible by 2
+2024-12-06 18:04:21,662 - INFO - is_prime called with n=-3
+2024-12-06 18:04:21,662 - WARNING - Input is not a prime candidate: n=-3
+2024-12-06 18:08:36,438 - INFO - factorial called with n=5
+2024-12-06 18:08:36,439 - INFO - factorial called with n=4
+2024-12-06 18:08:36,439 - INFO - factorial called with n=3
+2024-12-06 18:08:36,439 - INFO - factorial called with n=2
+2024-12-06 18:08:36,439 - INFO - factorial called with n=1
+2024-12-06 18:08:36,439 - INFO - factorial called with n=0
+2024-12-06 18:08:36,439 - INFO - factorial(0) = 1
+2024-12-06 18:08:36,440 - INFO - factorial(1) = 1
+2024-12-06 18:08:36,440 - INFO - factorial(2) = 2
+2024-12-06 18:08:36,440 - INFO - factorial(3) = 6
+2024-12-06 18:08:36,440 - INFO - factorial(4) = 24
+2024-12-06 18:08:36,440 - INFO - factorial(5) = 120
+2024-12-06 18:09:18,291 - INFO - factorial called with n=5
+2024-12-06 18:09:18,291 - INFO - factorial called with n=4
+2024-12-06 18:09:18,291 - INFO - factorial called with n=3
+2024-12-06 18:09:18,291 - INFO - factorial called with n=2
+2024-12-06 18:09:18,291 - INFO - factorial called with n=1
+2024-12-06 18:09:18,291 - INFO - factorial called with n=0
+2024-12-06 18:09:18,291 - INFO - factorial(0) = 1
+2024-12-06 18:09:18,291 - INFO - factorial(1) = 1
+2024-12-06 18:09:18,291 - INFO - factorial(2) = 2
+2024-12-06 18:09:18,291 - INFO - factorial(3) = 6
+2024-12-06 18:09:18,291 - INFO - factorial(4) = 24
+2024-12-06 18:09:18,291 - INFO - factorial(5) = 120
+2024-12-06 18:09:18,291 - INFO - is_prime called with n=7
+2024-12-06 18:09:18,292 - INFO - 7 is prime
+2024-12-06 18:09:18,292 - INFO - gcd called with a=48, b=18
+2024-12-06 18:09:18,292 - INFO - gcd result = 6
+2024-12-06 18:09:41,241 - INFO - factorial called with n=5
+2024-12-06 18:09:41,241 - INFO - factorial called with n=4
+2024-12-06 18:09:41,242 - INFO - factorial called with n=3
+2024-12-06 18:09:41,242 - INFO - factorial called with n=2
+2024-12-06 18:09:41,242 - INFO - factorial called with n=1
+2024-12-06 18:09:41,242 - INFO - factorial called with n=0
+2024-12-06 18:09:41,242 - INFO - factorial(0) = 1
+2024-12-06 18:09:41,242 - INFO - factorial(1) = 1
+2024-12-06 18:09:41,242 - INFO - factorial(2) = 2
+2024-12-06 18:09:41,243 - INFO - factorial(3) = 6
+2024-12-06 18:09:41,243 - INFO - factorial(4) = 24
+2024-12-06 18:09:41,243 - INFO - factorial(5) = 120
+2024-12-06 18:09:43,700 - INFO - is_prime called with n=7
+2024-12-06 18:09:43,700 - INFO - 7 is prime
+2024-12-06 18:09:43,700 - INFO - gcd called with a=48, b=18
+2024-12-06 18:09:43,700 - INFO - gcd result = 6
